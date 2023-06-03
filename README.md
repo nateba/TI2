@@ -1,9 +1,6 @@
 <h1 align="center">Trabalho Interdisciplinar II: Bancos de Dados e Sistemas Inteligentes</h1>
 
-<p align="center">
-<img src="https://img.shields.io/badge/status-andamento-yellow">
-<img src="https://img.shields.io/badge/last%20modified-15%2F03%2F2023-informational">
-</p>
+
 
 ## :pencil: Descrição do Repositório
 
